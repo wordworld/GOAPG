@@ -18,3 +18,7 @@
 
 # Dep files
 *.d
+
+# IDE
+.idea/
+cmake-build-*/

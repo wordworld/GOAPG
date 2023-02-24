@@ -1,4 +1,4 @@
-
+project(goapg)
 cmake_minimum_required(VERSION 3.4.1)
 
 # build libgpgoap as a static lib
